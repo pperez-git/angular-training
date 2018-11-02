@@ -1,0 +1,71 @@
+{
+  "configVersion": 1,
+  "index": "angular-tour-of-heroes/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "angular-tour-of-heroes/favicon.ico",
+        "angular-tour-of-heroes/index.html",
+        "angular-tour-of-heroes/main.7935905d372d99ae08af.js",
+        "angular-tour-of-heroes/polyfills.d6c80b389a3c780d347c.js",
+        "angular-tour-of-heroes/runtime.ec2944dd8b20ec099bf3.js",
+        "angular-tour-of-heroes/styles.a6eaae0bd60175a6d002.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "angular-tour-of-heroes/assets/icons/icon-128x128.png",
+        "angular-tour-of-heroes/assets/icons/icon-144x144.png",
+        "angular-tour-of-heroes/assets/icons/icon-152x152.png",
+        "angular-tour-of-heroes/assets/icons/icon-192x192.png",
+        "angular-tour-of-heroes/assets/icons/icon-384x384.png",
+        "angular-tour-of-heroes/assets/icons/icon-512x512.png",
+        "angular-tour-of-heroes/assets/icons/icon-72x72.png",
+        "angular-tour-of-heroes/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "angular-tour-of-heroes/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "angular-tour-of-heroes/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "angular-tour-of-heroes/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "angular-tour-of-heroes/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "angular-tour-of-heroes/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "angular-tour-of-heroes/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "angular-tour-of-heroes/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "angular-tour-of-heroes/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "angular-tour-of-heroes/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "angular-tour-of-heroes/index.html": "85f7c8735978d37c838b48e1bf43e6095c676e2b",
+    "angular-tour-of-heroes/main.7935905d372d99ae08af.js": "39d245a92547a2fac373426ef8426637fe758eb0",
+    "angular-tour-of-heroes/polyfills.d6c80b389a3c780d347c.js": "ef2035f0504b4f77eac510c33595c81a5d09e33f",
+    "angular-tour-of-heroes/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "angular-tour-of-heroes/styles.a6eaae0bd60175a6d002.css": "9817bfd13d31f5d6b269bdff7a75fdda9d372072"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
